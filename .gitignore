@@ -2,3 +2,5 @@ node_modules/
 dist/
 .env
 *.log
+# Local Netlify folder
+.netlify
